@@ -22,11 +22,12 @@ Python/PyPI library for working with Bambu 3D printers.
 - focused on practical automation and device integration
 - repo: https://github.com/LukaCek/BambuControll
 
-### 3D printing order app
+### Prototisk / 3D printing order app
 Django/Flask web application for uploading 3D models, calculating prices and handling 3D printing orders.
 
 - backend/web app connected to a real technical process
 - combines file upload, pricing logic and order flow
+- website: https://prototisk.eu
 - related repos:
   - https://github.com/LukaCek/protoslice
   - https://github.com/LukaCek/slice_api
