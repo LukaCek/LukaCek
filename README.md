@@ -1,4 +1,6 @@
-# Hi, I'm Luka 👋
+# Luka Cek 👋
+
+**Mechatronics technician | Python / Backend | Embedded / IoT | 3D printing**
 
 I'm a mechatronics technician from Ljubljana, Slovenia, with a practical background in programming, automation, Linux servers and 3D printing.
 
