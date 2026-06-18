@@ -1,7 +1,5 @@
 # Luka Cek 👋
 
-**Mechatronics technician | Python / Backend | Embedded / IoT | 3D printing**
-
 I'm a mechatronics technician from Ljubljana, Slovenia, with a practical background in programming, automation, Linux servers and 3D printing.
 
 I like building useful systems that connect software with real-world devices and workflows: backend apps, APIs, self-hosted tools, 3D printing workflows, IoT automations and AI agent setups.
@@ -9,7 +7,7 @@ I like building useful systems that connect software with real-world devices and
 ## What I work with
 
 - **Backend:** Python, Flask, Django, REST/API integrations
-- **Systems:** Linux, Docker, Proxmox, Google Cloud Run, self-hosting
+- **Systems:** Linux, Docker, Proxmox, self-hosting
 - **Automation / IoT:** Home Assistant, device integrations, practical technical systems
 - **3D printing:** Bambu printers, print workflows, model handling, technical problem-solving
 - **AI tools:** Ollama, LiteLLM, Hermes, AI agents and local/self-hosted integrations
@@ -24,12 +22,11 @@ Python/PyPI library for working with Bambu 3D printers.
 - focused on practical automation and device integration
 - repo: https://github.com/LukaCek/BambuControll
 
-### Prototisk / 3D printing order app
+### 3D printing order app
 Django/Flask web application for uploading 3D models, calculating prices and handling 3D printing orders.
 
 - backend/web app connected to a real technical process
 - combines file upload, pricing logic and order flow
-- website: https://prototisk.eu
 - related repos:
   - https://github.com/LukaCek/protoslice
   - https://github.com/LukaCek/slice_api
