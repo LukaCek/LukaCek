@@ -9,7 +9,7 @@ I like building useful systems that connect software with real-world devices and
 ## What I work with
 
 - **Backend:** Python, Flask, Django, REST/API integrations
-- **Systems:** Linux, Docker, Proxmox, self-hosting
+- **Systems:** Linux, Docker, Proxmox, Google Cloud Run, self-hosting
 - **Automation / IoT:** Home Assistant, device integrations, practical technical systems
 - **3D printing:** Bambu printers, print workflows, model handling, technical problem-solving
 - **AI tools:** Ollama, LiteLLM, Hermes, AI agents and local/self-hosted integrations
